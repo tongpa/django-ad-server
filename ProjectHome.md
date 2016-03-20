@@ -1,0 +1,1 @@
+This is an ad server writen in python / django, meant work similar to Google Ad Manager which is being built to help deliver ads on GamerNook.com
